@@ -1,0 +1,5 @@
+export const down = require('./down.png')
+export const right = require('./right.png')
+export const search = require('./search.png')
+export const copy = require('./copy.png')
+export const navBack = require('./navBack.png')
